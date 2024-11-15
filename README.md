@@ -1,12 +1,12 @@
 # Android Analyzer
 
 ## Overview
-Android Analyzer is a machine learning-based application designed to classify Android APK files as **Suspicious** (malicious) or **Benign** (safe) based on their feature signatures. The project leverages machine learning techniques and API call feature analysis to identify potentially harmful apps efficiently.
+Android Analyzer is a machine learning-based application designed to classify Android APK files as **Suspicious** (malicious) or **Benign** (safe) based on their feature signatures. The project leverages machine learning techniques to identify potentially harmful apps efficiently.
 
 ## Datasets
 The project uses datasets from [Android Malware Dataset for Machine Learning](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning):
 1. **First Dataset**: This dataset contains **15,036 APK samples** categorized as **9476 benign** and **5560 suspicious**, with 215 features representing various API call behaviors.
-2. **Second Dataset**: This dataset maps the feature names from the Drebin dataset to their corresponding API call signatures, providing better interpretability and understanding of the features used in classification.
+2. **Second Dataset**: This dataset maps the feature names from the first(main) dataset to their corresponding API call signatures, providing better interpretability and understanding of the features used in classification.
 
 ## Components
 ### analyzer.ipynb
