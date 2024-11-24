@@ -58,7 +58,7 @@ This notebook visualizes the feature descriptions dataset to provide insights in
 - [Android Malware Dataset for Machine Learning](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning)
 
 ## Author
-Developed by **Abu Huraira Zaheer**.  
+Developed by **Abu Huraira Zaheer, Haris Humayon and Abdullah Javeed**.  
 [LinkedIn Profile](https://www.linkedin.com/in/hurairaz/)
 
 
